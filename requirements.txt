@@ -1,0 +1,9 @@
+# WhatDidYouRemember 依赖包
+
+# 可选：如果需要使用OpenAI API
+# openai>=1.0.0
+
+# 可选：如果需要使用Anthropic API
+# anthropic>=0.18.0
+
+# 核心依赖（无外部依赖，使用标准库）
