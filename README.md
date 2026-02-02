@@ -865,11 +865,13 @@ git push origin feature/your-feature
 
 ---
 
-## 📮 联系方式
+## 👤 作者 (Author)
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/WhatDidYouRemember/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/WhatDidYouRemember/discussions)
-- **Email**: your.email@example.com
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
 
 ---
 
@@ -877,7 +879,6 @@ git push origin feature/your-feature
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-Made with ❤️ by the WhatDidYouRemember Team
+<sub>Made by Haoze Zheng. 2026 Paper2Post.</sub>
 
 </div>
-
