@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🧠 WhatDidYouRemember
+
+</div>
 
 <div align="center">
 
@@ -876,3 +880,4 @@ git push origin feature/your-feature
 Made with ❤️ by the WhatDidYouRemember Team
 
 </div>
+
